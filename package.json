@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-azure-devops",
+  "version": "1.0.0",
+  "description": "Azure DevOps Pipelines Sample for NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahnawazk/nodejs-azure-devops.git"
+  },
+  "keywords": [
+    "nodejs",
+    "azure",
+    "devops",
+    "pipelines",
+    "ci-cd",
+    "ci",
+    "cd"
+  ],
+  "author": "Shahnawaz Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahnawazk/nodejs-azure-devops/issues"
+  },
+  "homepage": "https://github.com/shahnawazk/nodejs-azure-devops#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
