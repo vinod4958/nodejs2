@@ -25,7 +25,6 @@ steps:
     rootFolderOrFile: '$(System.DefaultWorkingDirectory)'
     includeRootFolder: false
 
-- steps:
 - task: PublishBuildArtifacts@1
   displayName: 'Publish Artifact'
   inputs:
