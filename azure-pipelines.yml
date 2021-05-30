@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: 'azure-devops3'
+  name: 'default'
 
 steps:
 - task: NodeTool@0
