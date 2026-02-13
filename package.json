@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/shahnawazk/nodejs-azure-devops#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.22.0"
   }
 }
